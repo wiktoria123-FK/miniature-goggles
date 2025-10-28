@@ -20,11 +20,11 @@ Spróbuj zrobić taką listę:
 Aby uzyskać efekt punktowania w markdownie, zastąp punktory gwiazdką (*), jeżeli chcesz uzyskać podpunkty, daj tabulator przed gwiazdką.
 ## 1.3.	Wyróżnienia w markdownie
 ### 1.3.1.	Kursywa
-Ten fragment pisany kursywą możesz uzyskać, otaczając tekst pojedynczą gwiazdką lub pojedynczym podkreślnikiem.
+*Ten fragment pisany kursywą możesz uzyskać, otaczając tekst pojedynczą gwiazdką lub pojedynczym podkreślnikiem.*
 ### 1.3.2.	Pogrubienie
-Ten fragment pisany boldem możesz uzyskać, otaczając tekst dwoma gwiazdkami lub dwoma podkreślnikami.
+**Ten fragment pisany boldem możesz uzyskać, otaczając tekst dwoma gwiazdkami lub dwoma podkreślnikami.**
 ### 1.3.3.	Pogrubienie i kursywa
-Jak myślisz, ilu gwiazdek musisz użyć, by uzyskać ten efekt?
+***Jak myślisz, ilu gwiazdek musisz użyć, by uzyskać ten efekt?***
 ## 1.4.	Fragmenty kodu
 Znaczniki <code> <quote> czy <text>, aby wyświetlały się jako znaczniki, muszą być otoczone znakiem `. 
 Jeśli wklejasz dłuższy kod, np. taki:
