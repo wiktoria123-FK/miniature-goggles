@@ -26,8 +26,9 @@ Aby uzyskać efekt punktowania w markdownie, zastąp punktory gwiazdką (*), je�
 ### 1.3.3.	Pogrubienie i kursywa
 ***Jak myślisz, ilu gwiazdek musisz użyć, by uzyskać ten efekt?***
 ## 1.4.	Fragmenty kodu
-Znaczniki <code> <quote> czy <text>, aby wyświetlały się jako znaczniki, muszą być otoczone znakiem `. 
+Znaczniki `<code>` `<quote>` czy `<text>`, aby wyświetlały się jako znaczniki, muszą być otoczone znakiem `. 
 Jeśli wklejasz dłuższy kod, np. taki:
+```
 <XML>
 	<header>
 	</header>
@@ -36,6 +37,7 @@ Jeśli wklejasz dłuższy kod, np. taki:
 		</div>
 	</body>
 </XML>
+```
 Otocz go trzema znakami ``` (w osobnych wierszach).
 
 ## 1.5.	Cytaty
